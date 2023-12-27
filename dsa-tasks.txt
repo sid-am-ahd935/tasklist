@@ -1,3 +1,4 @@
 Solve LeetCode POTD 25-12-2023 (91. Decode Ways)
 Solve LeetCode POTD 26-12-2023 (1155. Number of Dice Rolls With Target Sum)
 Solve CodeRush December'23 (Rank Minimization) https://my.newtonschool.co/course/uit55t66ux9r/assignment/mtdbgegi6qwo/dashboard?tab=questions
+Solve LeetCode POTD 27-12-2023 (1578. Minimum Time to Make Rope Colorful)
