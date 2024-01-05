@@ -7,3 +7,4 @@ Solve LeetCode POTD 29-12-2023 (1335. Minimum Difficulty of a Job Schedule)
 Solve LeetCode POTD 31-12-2023 (1624. Largest Substring Between Two Equal Characters) [Optimal Solution]
 Solve LeetCode Contest Weekly 378 (https://leetcode.com/contest/weekly-contest-378/)
 Try to understand this code(LeetCode 2610): https://www.interviewbit.com/snippet/21702594932adb4aaa61/
+Solve LeetCode POTD 05-01-2024 (300. Longest Increasing Subsequence)
