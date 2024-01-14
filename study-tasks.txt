@@ -1,0 +1,3 @@
+Computer Organisation and Architecture (COA) {Caching, Virtual Memory, }
+Computer Networking {OSI Layers,}
+DBMS {ACID,}
