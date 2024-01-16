@@ -1,1 +1,3 @@
 Moore's Voting Algorithm
+Iterator functions in C++: advance() & next() [Difference, Time Complexity]
+CP method of removing a random element in vector in O(1), where position of any element does not matter: https://leetcode.com/problems/insert-delete-getrandom-o1/solutions/85422/ac-c-solution-unordered-map-vector/comments/259080
