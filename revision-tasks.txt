@@ -7,3 +7,4 @@ Boyer Moore Algorithm for Pattern Searching:
     https://www.interviewbit.com/problems/n3-repeat-number/discussion/p/bohre-voting-algo-soln/450785/505/
     https://www.interviewbit.com/problems/n3-repeat-number/discussion/p/simple-solution-c-tc-o-n-sc-o-1/316845/505/
     https://www.interviewbit.com/problems/n3-repeat-number/discussion/p/moores-voting-count-algorithm-100-working-and-best-solution/285048/505/
+https://www.allinterview.com/showanswers/15521/two-mit-math-graduates-bump-into-each-other-at-fairway-upper-west-side-hadnt-see.html
