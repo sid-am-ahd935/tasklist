@@ -17,3 +17,4 @@ LeetCode Weekly 380 Q4: Rabin-Karp Algorithm (rolling hash) / KMP String Pattern
 Solve LeetCode POTD 18-01-2024 (70. Climbing Stairs) [How is it fibonacci??]
 Solve Scaler Day 17 (Find Variance)
 Solve LeetCode POTD 19-01-2024 (931. Minimum Falling Path Sum)
+Solve Scaler Day 18 (Stairs)
