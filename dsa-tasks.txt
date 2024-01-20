@@ -18,3 +18,4 @@ Solve LeetCode POTD 18-01-2024 (70. Climbing Stairs) [How is it fibonacci??]
 Solve Scaler Day 17 (Find Variance)
 Solve LeetCode POTD 19-01-2024 (931. Minimum Falling Path Sum)
 Solve Scaler Day 18 (Stairs)
+Solve LeetCode POTD 20-01-2024 (907. Sum of Subarray Minimums) [How and why stack was implemented?] {https://leetcode.com/problems/sum-of-subarray-minimums/solutions/178876/stack-solution-with-very-detailed-explanation-step-by-step}
