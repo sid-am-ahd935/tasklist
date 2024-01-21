@@ -1,11 +1,11 @@
 Solve LeetCode POTD 25-12-2023 (91. Decode Ways)
 Solve LeetCode POTD 26-12-2023 (1155. Number of Dice Rolls With Target Sum)
-Solve CodeRush December'23 (Rank Minimization) https://my.newtonschool.co/course/uit55t66ux9r/assignment/mtdbgegi6qwo/dashboard?tab=questions
+Solve CodeRush December'23 [Rank Minimization] {https://my.newtonschool.co/course/uit55t66ux9r/assignment/mtdbgegi6qwo/dashboard?tab=questions}
 Solve LeetCode POTD 27-12-2023 (1578. Minimum Time to Make Rope Colorful)
 Solve LeetCode POTD 28-12-2023 (1531. String Compression II)
 Solve LeetCode POTD 29-12-2023 (1335. Minimum Difficulty of a Job Schedule)
 Solve LeetCode POTD 31-12-2023 (1624. Largest Substring Between Two Equal Characters) [Optimal Solution]
-Solve LeetCode Contest Weekly 378 (https://leetcode.com/contest/weekly-contest-378/)
+Solve LeetCode Contest Weekly 378 {https://leetcode.com/contest/weekly-contest-378/}
 Try to understand this code(LeetCode 2610): https://www.interviewbit.com/snippet/21702594932adb4aaa61/
 Solve LeetCode POTD 05-01-2024 (300. Longest Increasing Subsequence)
 Solve LeetCode POTD 06-01-2024 (1235. Maximum Profit in Job Scheduling)
@@ -13,9 +13,11 @@ Solve LeetCode POTD 07-01-2024 (446. Arithmetic Slices II - Subsequence)
 Solve LeetCode POTD 08-01-2024 (938. Range Sum of BST)
 Solve LeetCode POTD 10-01-2024 (2385. Amount of Time for Binary Tree to Be Infected)
 DP: Tabulation, Memoization, Space Optimisation
-LeetCode Weekly 380 Q4: Rabin-Karp Algorithm (rolling hash) / KMP String Pattern Matching Algorithm (https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii)
+Solve LeetCode Contest Weekly 380 (Q4) [Rabin-Karp Algorithm (rolling hash) / KMP String Pattern Matching Algorithm] {https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii}
 Solve LeetCode POTD 18-01-2024 (70. Climbing Stairs) [How is it fibonacci??]
 Solve Scaler Day 17 (Find Variance)
 Solve LeetCode POTD 19-01-2024 (931. Minimum Falling Path Sum)
 Solve Scaler Day 18 (Stairs)
 Solve LeetCode POTD 20-01-2024 (907. Sum of Subarray Minimums) [How and why stack was implemented?] {https://leetcode.com/problems/sum-of-subarray-minimums/solutions/178876/stack-solution-with-very-detailed-explanation-step-by-step}
+Solve LeetCode POTD 21-01-2024 (198. House Robber) [Revise Tabulation and Space Optimization] {https://leetcode.com/problems/house-robber/solutions/55693/c-1ms-o-1-space-very-simple-solution}
+Solve LeetCode Contest Weekly 381 (Q2 and Q4) [3015. Count the Number of Houses at a Certain Distance I and 3017. ... II]
