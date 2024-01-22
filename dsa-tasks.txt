@@ -21,3 +21,4 @@ Solve Scaler Day 18 (Stairs)
 Solve LeetCode POTD 20-01-2024 (907. Sum of Subarray Minimums) [How and why stack was implemented?] {https://leetcode.com/problems/sum-of-subarray-minimums/solutions/178876/stack-solution-with-very-detailed-explanation-step-by-step}
 Solve LeetCode POTD 21-01-2024 (198. House Robber) [Revise Tabulation and Space Optimization] {https://leetcode.com/problems/house-robber/solutions/55693/c-1ms-o-1-space-very-simple-solution}
 Solve LeetCode Contest Weekly 381 (Q2 and Q4) [3015. Count the Number of Houses at a Certain Distance I and 3017. ... II]
+Solve Scaler Day 21 (Find Duplicate in Array) [What is bucket algorithm?, How does this problem be solved with Floyd's Cycle Detection algorithm]
