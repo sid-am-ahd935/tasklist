@@ -25,3 +25,4 @@ Solve Scaler Day 21 (Find Duplicate in Array) [What is bucket algorithm?, How do
 Solve Scaler Day 22 (Kingdom of Friendship)
 Solve LeetCode POTD 23-01-2024 (1239. Maximum Length of a Concatenated String with Unique Characters)
 Solve LeetCode POTD 24-01-2024 (1457. Pseudo-Palindromic Paths in a Binary Tree) {https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/solutions/2573237/leetcode-the-hard-way-explained-line-by-line}
+Solve Scaler Day 23 (Reverse Linked List)
