@@ -1,3 +1,12 @@
 Computer Organisation and Architecture (COA) {Caching, Virtual Memory, }
 Computer Networking {OSI Layers,}
 DBMS {ACID,}
+
+Elastic Search
+Vector Similarity Search
+Redis
+Docker
+Kubernetes
+
+Conway's Game of Life
+CORS Error in fetch (Refer to https://github.com/sid-am-ahd935/tasklist/blob/64167dc2abbb95624f6f0cdd261347e5f3936f8e/images/c0d66bec-c045-4718-a088-4e7e7a0481cd.jpg)
