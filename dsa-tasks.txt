@@ -27,3 +27,6 @@ Solve LeetCode POTD 23-01-2024 (1239. Maximum Length of a Concatenated String wi
 Solve LeetCode POTD 24-01-2024 (1457. Pseudo-Palindromic Paths in a Binary Tree) {https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/solutions/2573237/leetcode-the-hard-way-explained-line-by-line}
 Solve Scaler Day 23 (Reverse Linked List)
 Solve LeetCode POTD 25-01-2024 (1143. Longest Common Subsequence)
+Solve Scaler Day 24 (Swap List Nodes in pairs)
+Solve LeetCode POTD 26-01-2024 (576. Out of Boundary Paths)
+Solve Scaler Day 25 (Remove Nth Node from List End)
