@@ -34,3 +34,5 @@ Solve LeetCode POTD 27-01-2024 (629. K Inverse Pairs Array)
 Solve Scaler Day 26 (Word Break)
 Solve Scaler Day 27 (Merge Two Sorted Lists) [How and why priority queue was used]
 Solve LeetCode POTD 28-01-2024 (1074. Number of Submatrices That Sum to Target)
+Solve LeetCode POTD 29-01-2024 (232. Implement Queue using Stacks)
+Solve Scaler Day 28 (Rotate List)
