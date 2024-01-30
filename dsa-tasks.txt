@@ -36,3 +36,5 @@ Solve Scaler Day 27 (Merge Two Sorted Lists) [How and why priority queue was use
 Solve LeetCode POTD 28-01-2024 (1074. Number of Submatrices That Sum to Target)
 Solve LeetCode POTD 29-01-2024 (232. Implement Queue using Stacks)
 Solve Scaler Day 28 (Rotate List)
+Solve Scaler Day 29 (Remove Duplicates from Sorted List)
+Solve LeetCode POTD 30-01-2024 (150. Evaluate Reverse Polish Notation)
