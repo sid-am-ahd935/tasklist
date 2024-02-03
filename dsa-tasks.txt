@@ -44,3 +44,5 @@ Solve LeetCode POTD 01-02-2024 (2966. Divide Array Into Arrays With Max Differen
 Solve Scaler Day 31 (Dungeon Princess)
 Solve Scaler Day 32 (Evaluate Expression)
 Solve LeetCode POTD 02-02-2024 (1291. Sequential Digits)
+Solve Scaler Day 33 (Reverse Integer)
+Solve LeetCode POTD 03-02-2024 (1043. Partition Array for Maximum Sum)
