@@ -61,4 +61,4 @@ Solve Scaler Day 39 (Remove Duplicates from Sorted List II)
 Solve LeetCode 10-02-2024 (647. Palindromic Substrings)
 Solve Scaler Day 40 (Set Matrix Zeros)
 Solve LeetCode 11-02-2024 (1463. Cherry Pickup II)
-Solve Scaler Day 41 (Max Sum Contiguous Subarray)
+Solve Scaler Day 41 (Max Sum Contiguous Subarray) [Kadane's Algorithm]
