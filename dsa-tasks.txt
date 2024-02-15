@@ -65,3 +65,4 @@ Solve Scaler Day 41 (Max Sum Contiguous Subarray) [Kadane's Algorithm]
 Solve Scaler Day 43 (First Index)
 Solve LeetCode POTD 14-02-2024 (2149. Rearrange Array Elements by Sign)
 Solve Scaler Day 44 (Sort List)
+Solve Scaler Day 45 (List Cycle)
