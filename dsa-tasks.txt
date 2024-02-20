@@ -72,4 +72,4 @@ Solve Scaler Day 47 (Gas Station)
 Solve LeetCode POTD 18-02-2024 (2402. Meeting Rooms III)
 Solve Scaler Day 48 (Longest Increasing Subsequence)
 Solve Scaler Day 49 (Unique Paths in a Grid)
-Solve Scaler Day 50 (Max Rectangle in Binary Matrix)
+Not Solved (Max Rectangle in Binary Matrix) For Scaler Day 50
