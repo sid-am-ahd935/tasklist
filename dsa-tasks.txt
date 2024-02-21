@@ -74,3 +74,4 @@ Solve Scaler Day 48 (Longest Increasing Subsequence)
 Solve Scaler Day 49 (Unique Paths in a Grid)
 Not Solved (Max Rectangle in Binary Matrix) For Scaler Day 50
 Solve LeetCode POTD 21-02-2024 (201. Bitwise AND of Numbers Range)
+Solve Scaler Day 51 (Window String)
