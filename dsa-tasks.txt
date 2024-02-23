@@ -77,3 +77,4 @@ Solve LeetCode POTD 21-02-2024 (201. Bitwise AND of Numbers Range)
 Solve Scaler Day 51 (Window String)
 Solve Contest Biweekly 124 (Q3) {https://leetcode.com/contest/biweekly-contest-124/problems/maximum-number-of-operations-with-the-same-score-ii/}
 Solve LeetCode POTD 22-02-2024 (997. Find the Town Judge) {https://leetcode.com/problems/find-the-town-judge/solutions/4764862/beat-100-2-simple-method-c-java-python-2ms-with-explanation/?envType=daily-question&envId=2024-02-22}
+Solve Scaler Day 53 (3 Sum)
