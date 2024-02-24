@@ -79,3 +79,4 @@ Solve Contest Biweekly 124 (Q3) {https://leetcode.com/contest/biweekly-contest-1
 Solve LeetCode POTD 22-02-2024 (997. Find the Town Judge) {https://leetcode.com/problems/find-the-town-judge/solutions/4764862/beat-100-2-simple-method-c-java-python-2ms-with-explanation/?envType=daily-question&envId=2024-02-22}
 Solve Scaler Day 53 (3 Sum)
 Solve LeetCode POTD 23-02-2024 (787. Cheapest Flights Within K Stops)
+Solve LeetCode POTD 24-02-2024 (2092. Find All People With Secret)
