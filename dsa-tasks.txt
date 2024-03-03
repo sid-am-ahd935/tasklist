@@ -83,3 +83,4 @@ Solve LeetCode POTD 24-02-2024 (2092. Find All People With Secret)
 Solve LeetCode POTD 25-02-2024 (2709. Greatest Common Divisor Traversal)
 Solve Scaler Day 59 (Edit Distance)
 Solve Scaler Day 60 (Distribute Candy)
+Solve LeetCode Contest Weekly 387 {https://leetcode.com/contest/weekly-contest-387/problems/distribute-elements-into-two-arrays-ii/}
