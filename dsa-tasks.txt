@@ -84,3 +84,4 @@ Solve LeetCode POTD 25-02-2024 (2709. Greatest Common Divisor Traversal)
 Solve Scaler Day 59 (Edit Distance)
 Solve Scaler Day 60 (Distribute Candy)
 Solve LeetCode Contest Weekly 387 {https://leetcode.com/contest/weekly-contest-387/problems/distribute-elements-into-two-arrays-ii/}
+Solve LeetCode POTD 06-03-2024 (1750. Minimum Length of String After Deleting Similar Ends)
