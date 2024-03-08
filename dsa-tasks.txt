@@ -85,3 +85,6 @@ Solve Scaler Day 59 (Edit Distance)
 Solve Scaler Day 60 (Distribute Candy)
 Solve LeetCode Contest Weekly 387 {https://leetcode.com/contest/weekly-contest-387/problems/distribute-elements-into-two-arrays-ii/}
 Solve LeetCode POTD 06-03-2024 (1750. Minimum Length of String After Deleting Similar Ends)
+Solve Scaler Day 66 (Search in Bitonic Array!)
+Solve Scaler Day 63 (Minimum Lights to Activate)
+Solve Scaler Day 61 (Even Product)
