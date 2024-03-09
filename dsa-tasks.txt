@@ -88,3 +88,4 @@ Solve LeetCode POTD 06-03-2024 (1750. Minimum Length of String After Deleting Si
 Solve Scaler Day 66 (Search in Bitonic Array!)
 Solve Scaler Day 63 (Minimum Lights to Activate)
 Solve Scaler Day 61 (Even Product)
+Solve Scaler Day 68 (Chips Factory)
