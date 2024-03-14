@@ -95,3 +95,5 @@ Solve LeetCode POTD 12-03-2024 (1171. Remove Zero Sum Consecutive Nodes from Lin
 Solve Scaler Day 71 (Climbing Stairs)
 Solve LeetCode POTD 13-03-2024 (2485. Find the Pivot Integer)
 Solve Scaler Day 72 (SUBTRACT)
+Solve Scaler Day 73 (Rotated Array)
+Solve LeetCode POTD 14-03-2024 (930. Binary Subarrays With Sum)
