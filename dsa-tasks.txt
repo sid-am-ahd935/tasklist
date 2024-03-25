@@ -110,3 +110,5 @@ Solve LeetCode POTD 23-03-2024 (143. Reorder List)
 Solve LeetCode Contest Weekly 390 {https://leetcode.com/contest/weekly-contest-390/problems/most-frequent-ids/}
 Solve LeetCode POTD 24-03-2024 (287. Find the Duplicate Number) [TC:- O(N) and SC:- O(1) How???]
 Solve Scaler Day 83 (Remove Consecutive Characters)
+Solve LeetCode POTD 25-03-2024 (442. Find All Duplicates in an Array) [TC:- O(N) and SC:- O(1) How???]
+Solve Scaler Day 84 (Pair With Given Difference)
