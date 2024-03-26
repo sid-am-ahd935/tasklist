@@ -113,3 +113,4 @@ Solve Scaler Day 83 (Remove Consecutive Characters)
 Solve LeetCode POTD 25-03-2024 (442. Find All Duplicates in an Array) [TC:- O(N) and SC:- O(1) How???]
 Solve Scaler Day 84 (Pair With Given Difference)
 Solve Scaler Day 85 (Valid Ip Addresses)
+Solve LeetCode POTD 26-03-2024 (41. First Missing Positive)
