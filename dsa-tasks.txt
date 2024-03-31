@@ -122,3 +122,4 @@ Solve LeetCode POTD 29-03-2024 (2962. Count Subarrays Where Max Element Appears 
 Solve Scaler Day 89 (Single Number)
 Solve LeetCode POTD 30-03-2024 (992. Subarrays with K Different Integers)
 Solve LeetCode Contest Weekly 391 {https://leetcode.com/contest/weekly-contest-391/} [I could do this if I had more knowledge]
+Solve LeetCode POTD 31-03-2024 (2444. Count Subarrays With Fixed Bounds)
