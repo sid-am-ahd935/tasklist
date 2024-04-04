@@ -6,4 +6,4 @@ Create a portfolio that is a static webpage when loaded normally, but when reque
 Create a web app which bascially tracks yourself. It can act like basically a journal where you store all the "necessary" activities you want to recall in the future. And you can add additional tags and description to that activity, sort of a side note. You can also make this a personal diary as only you will be able to see your journal and only selected those whose "username" you will have included in your list...
 Basically like this app: https://play.google.com/store/apps/details?id=com.roehl.habitkit
 
-Gruntjs and Nconf along with express
+Gruntjs and Nconf along with express along with kraken.js and dust.js
