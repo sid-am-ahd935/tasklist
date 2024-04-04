@@ -2,6 +2,9 @@ Computer Organisation and Architecture (COA) {Caching, Virtual Memory, }
 Computer Networking {OSI Layers,}
 DBMS {ACID,}
 
+https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/
+B+ Trees
+
 Elastic Search
 Vector Similarity Search
 Redis
