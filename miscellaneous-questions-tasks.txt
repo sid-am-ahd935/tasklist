@@ -1,0 +1,1 @@
+https://edurev.in/question/2795024/The-minimum-number-of-comparisons-required-to-find-the-minimum-and-the-maximum-of-100-numbers-is----#:~:text=This%20requires%203(n%2D1)%2F2%20comparisons.&text=Therefore%2C%20the%20minimum%20number%20of,Science%20Engineering%20(CSE)%20Students!
