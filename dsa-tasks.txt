@@ -133,3 +133,11 @@ Solve Scaler Day 93 (Remove Element from Array)
 Solve LeetCode POTD 03-04-2024 (79. Word Search)
 Solve Scaler Day 94 (Palindrome String)
 Solve LeetCode POTD 04-04-2024 (1614. Maximum Nesting Depth of the Parentheses)
+To Solve:
+  - https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/
+  - https://leetcode.com/contest/biweekly-contest-110/problems/account-balance-after-rounded-purchase/
+  - https://leetcode.com/problems/longest-alternating-subarray/description/
+  - https://leetcode.com/contest/weekly-contest-358/problems/minimum-absolute-difference-between-elements-with-constraint/
+  - https://codeforces.com/contest/1860/problem/A
+  - https://leetcode.com/contest/weekly-contest-361/problems/count-of-interesting-subarrays/
+  
