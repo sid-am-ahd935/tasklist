@@ -3,6 +3,7 @@ Computer Networking {OSI Layers,}
 DBMS {ACID,}
 
 https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/
+https://codeforces.com/blog/entry/78873
 B+ Trees
 
 Elastic Search
