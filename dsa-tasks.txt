@@ -145,3 +145,5 @@ To Solve:
   - https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-ii/
   - https://leetcode.com/contest/weekly-contest-364/problems/count-valid-paths-in-a-tree/
   - https://leetcode.com/contest/weekly-contest-364/problems/count-valid-paths-in-a-tree/
+Solve Scaler Day 95 (Min Steps in Infinite Grid)
+Solve LeetCode POTD 05-04-2024 (1544. Make The String Great)
