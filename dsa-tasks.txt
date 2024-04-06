@@ -147,3 +147,5 @@ To Solve:
   - https://leetcode.com/contest/weekly-contest-364/problems/count-valid-paths-in-a-tree/
 Solve Scaler Day 95 (Min Steps in Infinite Grid)
 Solve LeetCode POTD 05-04-2024 (1544. Make The String Great)
+Solve LeetCode POTD 06-04-2024 (1249. Minimum Remove to Make Valid Parentheses)
+Solve Scaler Day 96 (First non-repeating character in a stream of characters)
