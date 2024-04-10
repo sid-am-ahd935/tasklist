@@ -157,3 +157,6 @@ Solve LeetCode POTD 08-04-2024 (1700. Number of Students Unable to Eat Lunch)
 Solve LeetCode POTD 09-04-2024 (2073. Time Needed to Buy Tickets)
 Solve Scaler Day 99 (Distinct Numbers in Window)
 Solve Scaler Arrays Day 9 (Trapping Rain Water)
+Solve LeetCode POTD 10-04-2024 (950. Reveal Cards In Increasing Order)
+Solve Scaler Day 100 (Rotate Matrix)
+Solve Scaler Arrays Day 10 (https://twitter.com/PawanKa046790/status/1778103900526240240) [Merge Intervals]
