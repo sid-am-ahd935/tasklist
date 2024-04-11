@@ -160,3 +160,6 @@ Solve Scaler Arrays Day 9 (Trapping Rain Water)
 Solve LeetCode POTD 10-04-2024 (950. Reveal Cards In Increasing Order)
 Solve Scaler Day 100 (Rotate Matrix)
 Solve Scaler Arrays Day 10 (https://twitter.com/PawanKa046790/status/1778103900526240240) [Merge Intervals]
+Solve LeetCode POTD 11-04-2024 (402. Remove K Digits)
+Solve Scaler Day 101 (Stepping Numbers)
+Solve Scaler Arrays Day 10 [Missing and repeating numbers (using equation)]
