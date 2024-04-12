@@ -162,4 +162,6 @@ Solve Scaler Day 100 (Rotate Matrix)
 Solve Scaler Arrays Day 10 (https://twitter.com/PawanKa046790/status/1778103900526240240) [Merge Intervals]
 Solve LeetCode POTD 11-04-2024 (402. Remove K Digits)
 Solve Scaler Day 101 (Stepping Numbers)
-Solve Scaler Arrays Day 10 [Missing and repeating numbers (using equation)]
+Solve Scaler Arrays Day 11 [Missing and repeating numbers (using equation)]
+Solve LeetCode POTD 12-04-2024 (42. Trapping Rain Water)
+Solve Scaler Day 102 (Spiral Order Matrix I)
