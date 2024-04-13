@@ -165,3 +165,5 @@ Solve Scaler Day 101 (Stepping Numbers)
 Solve Scaler Arrays Day 11 [Missing and repeating numbers (using equation)]
 Solve LeetCode POTD 12-04-2024 (42. Trapping Rain Water)
 Solve Scaler Day 102 (Spiral Order Matrix I)
+Solve LeetCode POTD 13-04-2024 (85. Maximal Rectangle)
+Solve Scaler Day 103 (Longest valid Parentheses)
