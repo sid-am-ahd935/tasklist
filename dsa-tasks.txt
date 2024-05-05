@@ -207,4 +207,4 @@ Solve LeetCode POTD 04-05-2024 (881. Boats to Save People)
 Solve Scaler Day 124 (Simplify Directory Path)
 Solve Scaler Day 125 (Deserialize)
 Solve LeetCode POTD 05-05-2024 (237. Delete Node in a Linked List)
-
+Solve LeetCode Contest Weekly 396 {https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/}
