@@ -212,3 +212,5 @@ Solve Scaler Day 126 (Convert the amount in number to words)
 Solve LeetCode POTD 06-05-2024 (2487. Remove Nodes From Linked List)
 Solve LeetCode POTD 07-05-2024 (2816. Double a Number Represented as a Linked List)
 Solve Scaler Day 127 (Min Stack)
+Solve LeetCode POTD 08-05-2024 (506. Relative Ranks) {https://leetcode.com/problems/relative-ranks/solutions/5127782/beats-100-2ms-92-mem-detailed-explained-mapping-as-an-array-tc-o-n-m-sc-o-n/}
+Solve Scaler Day 128 (Sort Binary Linked List) [Dutch National Flag]
