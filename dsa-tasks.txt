@@ -216,3 +216,5 @@ Solve LeetCode POTD 08-05-2024 (506. Relative Ranks) {https://leetcode.com/probl
 Solve Scaler Day 128 (Sort Binary Linked List) [Dutch National Flag]
 Solve LeetCode POTD 09-05-2024 (3075. Maximize Happiness of Selected Children)
 Solve Scaler Day 129 (Redundant Braces)
+Solve LeetCode POTD 10-05-2024 (786. K-th Smallest Prime Fraction)
+Solve Scaler Day 130 (Insertion Sort List) {https://www.interviewbit.com/problems/insertion-sort-list/discussion/p/constant-space-insertion-sort-for-linked-lists/353315/455/}
