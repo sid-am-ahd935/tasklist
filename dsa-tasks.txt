@@ -218,3 +218,5 @@ Solve LeetCode POTD 09-05-2024 (3075. Maximize Happiness of Selected Children)
 Solve Scaler Day 129 (Redundant Braces)
 Solve LeetCode POTD 10-05-2024 (786. K-th Smallest Prime Fraction)
 Solve Scaler Day 130 (Insertion Sort List) {https://www.interviewbit.com/problems/insertion-sort-list/discussion/p/constant-space-insertion-sort-for-linked-lists/353315/455/}
+Solve LeetCode POTD 11-05-2024 (857. Minimum Cost to Hire K Workers)
+Solve Scaler Day 131 (Next Greater Number BST)
