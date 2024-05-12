@@ -220,3 +220,5 @@ Solve LeetCode POTD 10-05-2024 (786. K-th Smallest Prime Fraction)
 Solve Scaler Day 130 (Insertion Sort List) {https://www.interviewbit.com/problems/insertion-sort-list/discussion/p/constant-space-insertion-sort-for-linked-lists/353315/455/}
 Solve LeetCode POTD 11-05-2024 (857. Minimum Cost to Hire K Workers)
 Solve Scaler Day 131 (Next Greater Number BST)
+Solve LeetCode POTD 12-05-2024 (2373. Largest Local Values in a Matrix)
+Solve Scaler Day 132 (Different Bits Sum Pairwise)
