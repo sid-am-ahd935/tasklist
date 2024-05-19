@@ -234,3 +234,5 @@ Solve LeetCode POTD 17-05-2024 (1325. Delete Leaves With a Given Value)
 Solve Scaler Day 137 (Matrix Search)
 Solve LeetCode POTD 18-05-2024 (979. Distribute Coins in Binary Tree)
 Solve Scaler Day 138 (Median of Array)
+Solve LeetCode Contest Weekly 398 {https://leetcode.com/contest/weekly-contest-398/problems/special-array-ii/}
+Solve LeetCode Contest Weekly 398 {https://leetcode.com/contest/weekly-contest-398/problems/sum-of-digit-differences-of-all-pairs/}
