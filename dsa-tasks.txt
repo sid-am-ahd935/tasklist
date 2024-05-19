@@ -236,3 +236,5 @@ Solve LeetCode POTD 18-05-2024 (979. Distribute Coins in Binary Tree)
 Solve Scaler Day 138 (Median of Array)
 Solve LeetCode Contest Weekly 398 {https://leetcode.com/contest/weekly-contest-398/problems/special-array-ii/}
 Solve LeetCode Contest Weekly 398 {https://leetcode.com/contest/weekly-contest-398/problems/sum-of-digit-differences-of-all-pairs/}
+Solve LeetCode POTD 19-05-2024 (3068. Find the Maximum Sum of Node Values) {https://leetcode.com/problems/find-the-maximum-sum-of-node-values/solutions/5176804/extreme-detailed-explanation-that-could-ever-exists/}
+Solve Scaler Day 139 (String And Its Frequency)
