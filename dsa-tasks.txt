@@ -238,3 +238,5 @@ Solve LeetCode Contest Weekly 398 {https://leetcode.com/contest/weekly-contest-3
 Solve LeetCode Contest Weekly 398 {https://leetcode.com/contest/weekly-contest-398/problems/sum-of-digit-differences-of-all-pairs/}
 Solve LeetCode POTD 19-05-2024 (3068. Find the Maximum Sum of Node Values) {https://leetcode.com/problems/find-the-maximum-sum-of-node-values/solutions/5176804/extreme-detailed-explanation-that-could-ever-exists/}
 Solve Scaler Day 139 (String And Its Frequency)
+Solve LeetCode POTD 20-05-2024 (1863. Sum of All Subset XOR Totals)
+Solve Scaler Day 140 (Min XOR value) {https://www.interviewbit.com/problems/min-xor-value/discussion/p/min-xor-value-c-solution/484579/1067/}
