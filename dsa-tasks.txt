@@ -242,3 +242,5 @@ Solve LeetCode POTD 20-05-2024 (1863. Sum of All Subset XOR Totals)
 Solve Scaler Day 140 (Min XOR value) {https://www.interviewbit.com/problems/min-xor-value/discussion/p/min-xor-value-c-solution/484579/1067/}
 Solve LeetCode POTD 21-05-2024 (78. Subsets)
 Solve Scaler Day 141 (Atoi) {https://www.interviewbit.com/problems/atoi/discussion/p/self-explanatory-variable-names/511849/735/}
+Solve LeetCode POTD 22-05-2024 (131. Palindrome Partitioning)
+Solve Scaler Day 142 (Merge Two Sorted Lists II)
