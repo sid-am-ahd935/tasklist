@@ -248,3 +248,4 @@ Solve LeetCode POTD 23-05-2024 (2597. The Number of Beautiful Subsets)
 Solve Scaler Day 143 (Compare Version Numbers)
 Solve LeetCode POTD 24-05-2024 (1255. Maximum Score Words Formed by Letters) {https://leetcode.com/problems/maximum-score-words-formed-by-letters/submissions/1266759707/}
 Solve Scaler Day 144 (Sliding Window Maximum) {https://www.interviewbit.com/problems/sliding-window-maximum/discussion/p/c-deque-solution-explanation/482810/471/}
+Solve LeetCode POTD 25-05-2024 (140. Word Break II) {https://leetcode.com/problems/word-break-ii/solutions/5203877/2-approaches-extremeeeee-step-by-step-explanation/}
