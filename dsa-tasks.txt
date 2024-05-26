@@ -250,3 +250,4 @@ Solve LeetCode POTD 24-05-2024 (1255. Maximum Score Words Formed by Letters) {ht
 Solve Scaler Day 144 (Sliding Window Maximum) {https://www.interviewbit.com/problems/sliding-window-maximum/discussion/p/c-deque-solution-explanation/482810/471/}
 Solve LeetCode POTD 25-05-2024 (140. Word Break II) {https://leetcode.com/problems/word-break-ii/solutions/5203877/2-approaches-extremeeeee-step-by-step-explanation/}
 Solve LeetCode Contest Biweekly 131 {https://leetcode.com/contest/biweekly-contest-131/problems/block-placement-queries/}
+Solve LeetCode POTD 26-05-2024 (552. Student Attendance Record II) {https://leetcode.com/problems/student-attendance-record-ii/solutions/5208681/dp-recursion-memo-tabular-space-optimized-vs-matrix-power-o-log-n-3ms-beats-99-38/}
