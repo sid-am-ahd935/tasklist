@@ -254,5 +254,6 @@ Solve LeetCode POTD 26-05-2024 (552. Student Attendance Record II) {https://leet
 Solve LeetCode POTD 27-05-2024 (1608. Special Array With X Elements Greater Than or Equal X) {https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/solutions/5213381/every-step-explained-a-detailed-explanation-2-methods/}
 Solve Scaler Day 146 (Maximum Sum Triplet)
 Solve Scaler Day 147 (Diffk)
+Solve Scaler Day 148 (Count And Say) {https://www.interviewbit.com/problems/count-and-say/discussion/p/easy-solution-using-dp-approach/316408/745/}
 
 
