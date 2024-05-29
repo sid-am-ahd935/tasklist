@@ -256,5 +256,7 @@ Solve Scaler Day 146 (Maximum Sum Triplet)
 Solve Scaler Day 147 (Diffk)
 Solve Scaler Day 148 (Count And Say) {https://www.interviewbit.com/problems/count-and-say/discussion/p/easy-solution-using-dp-approach/316408/745/}
 Solve LeetCode POTD 28-05-2024 (1208. Get Equal Substrings Within Budget) {https://leetcode.com/problems/get-equal-substrings-within-budget/solutions/5218554/sliding-window-vs-prefix-sum-binary-search-0ms-beats-100/}
+Solve Scaler Day 149 (Rain Water Trapped) {https://www.interviewbit.com/problems/rain-water-trapped/discussion/p/easy-c-and-best-solution-o-n-tc-and-o-n-sc/506840/465/}
+Solve LeetCode POTD 29-05-2024 (1404. Number of Steps to Reduce a Number in Binary Representation to One) {https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/solutions/5223471/highly-detailed-step-by-step-explanation-with-diagram/}
 
 
