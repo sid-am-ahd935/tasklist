@@ -262,4 +262,6 @@ Solve LeetCode POTD 30-05-2024 (1442. Count Triplets That Can Form Two Arrays of
 Solve Scaler Day 151 (Combination Sum) {https://www.interviewbit.com/problems/combination-sum/discussion/p/backtracking-simple-sol/459690/643/}
 Solve LeetCode POTD 31-05-2024 (260. Single Number III) {https://leetcode.com/problems/single-number-iii/solutions/5233206/demon-level-explanation-3-approaches/}
 Solved all questions for today
+Solve Scaler Day 152 (NQueens)
+Solve LeetCode Contest Weekly 400 {https://leetcode.com/contest/weekly-contest-400/problems/count-days-without-meetings/description/}
 
