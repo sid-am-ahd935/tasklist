@@ -266,4 +266,6 @@ Solve Scaler Day 153 (NQueens)
 Solve LeetCode Contest Weekly 400 {https://leetcode.com/contest/weekly-contest-400/problems/count-days-without-meetings/description/}
 Solve Scaler Day 154 (Combination Sum II)
 Solve LeetCode POTD 03-05-2024 (2486. Append Characters to String to Make Subsequence)
+Solve Scaler Day 155 (Largest Continuous Sequence Zero Sum)
+Solve LeetCode POTD 04-05-2024 (409. Longest Palindrome)
 
