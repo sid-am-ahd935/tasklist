@@ -270,4 +270,6 @@ Solve Scaler Day 155 (Largest Continuous Sequence Zero Sum)
 Solve LeetCode POTD 04-05-2024 (409. Longest Palindrome)
 Solve Scaler Day 156 (Right view of Binary tree)
 Solve LeetCode POTD 05-05-2024 (Right view of Binary tree)
+Solve Scaler Day 157 (Disjoint Intervals) {https://www.interviewbit.com/problems/disjoint-intervals/discussion/p/disjoint-intervals-c-easy-solution/481891/2059/}
+Solve LeetCode POTD 06-05-2024 (846. Hand of Straights)
 
