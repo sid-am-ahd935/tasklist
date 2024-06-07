@@ -272,4 +272,6 @@ Solve Scaler Day 156 (Right view of Binary tree)
 Solve LeetCode POTD 05-05-2024 (Right view of Binary tree)
 Solve Scaler Day 157 (Disjoint Intervals) {https://www.interviewbit.com/problems/disjoint-intervals/discussion/p/disjoint-intervals-c-easy-solution/481891/2059/}
 Solve LeetCode POTD 06-05-2024 (846. Hand of Straights)
+Solve LeetCode POTD 07-05-2024 (648. Replace Words)
+Solve Scaler Day 157 (Amazing Subarrays) [Done]
 
