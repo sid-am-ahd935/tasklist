@@ -274,4 +274,6 @@ Solve Scaler Day 157 (Disjoint Intervals) {https://www.interviewbit.com/problems
 Solve LeetCode POTD 06-05-2024 (846. Hand of Straights)
 Solve LeetCode POTD 07-05-2024 (648. Replace Words)
 Solve Scaler Day 157 (Amazing Subarrays) [Done]
+Solve LeetCode POTD 08-05-2024 (523. Continuous Subarray Sum)
+Solve Scaler Day 158 (Longest Palindromic Subsequence)
 
