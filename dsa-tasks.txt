@@ -273,7 +273,12 @@ Solve LeetCode POTD 05-05-2024 (Right view of Binary tree)
 Solve Scaler Day 157 (Disjoint Intervals) {https://www.interviewbit.com/problems/disjoint-intervals/discussion/p/disjoint-intervals-c-easy-solution/481891/2059/}
 Solve LeetCode POTD 06-05-2024 (846. Hand of Straights)
 Solve LeetCode POTD 07-05-2024 (648. Replace Words)
-Solve Scaler Day 157 (Amazing Subarrays) [Done]
+Solve Scaler Day 158 (Amazing Subarrays) [Done]
 Solve LeetCode POTD 08-05-2024 (523. Continuous Subarray Sum)
-Solve Scaler Day 158 (Longest Palindromic Subsequence)
+Solve Scaler Day 159 (Longest Palindromic Subsequence)
+Solve LeetCode Contest Weekly 401 {https://leetcode.com/contest/weekly-contest-401/problems/find-the-child-who-has-the-ball-after-k-seconds/}
+Solve LeetCode Contest Weekly 401 {https://leetcode.com/contest/weekly-contest-401/problems/maximum-total-reward-using-operations-i/}
+Solve LeetCode Contest Weekly 401 {https://leetcode.com/contest/weekly-contest-401/problems/find-the-n-th-value-after-k-seconds/}
+Solve LeetCode POTD 09-05-2024 (974. Subarray Sums Divisible by K)
+Solve Scaler Day 160 (Largest Permutation)
 
