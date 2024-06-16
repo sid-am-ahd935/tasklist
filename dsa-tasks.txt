@@ -292,3 +292,4 @@ Solve Scaler Day 164 (Largest Rectangle in Histogram)
 Solve LeetCode POTD 14-05-2024 (945. Minimum Increment to Make Array Unique)
 Solve Scaler Day 165 (Xor Between Two Arrays!) {https://www.interviewbit.com/problems/xor-between-two-arrays/discussion/p/easy-to-understand-c-code-vivek/357786/2053/}
 Solve LeetCode POTD 15-05-2024 (502. IPO)
+Solve LeetCode Contest Weekly 402 {https://leetcode.com/contest/weekly-contest-402/problems/maximum-total-damage-with-spell-casting/}
