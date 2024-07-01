@@ -323,3 +323,4 @@ Solve LeetCode POTD 29-06-2024 (2192. All Ancestors of a Node in a Directed Acyc
 Solve Scaler Day 180 (Noble Integer)
 Solve LeetCode POTD 30-06-2024 (1579. Remove Max Number of Edges to Keep Graph Fully Traversable)
 Solve Scaler Day 181 (Stringoholics)
+Solve Scaler Day 182 (Justified Text)
