@@ -331,5 +331,6 @@ Solve Scaler Day 184 (Recover Binary Search Tree)
 Solve LeetCode POTD 04-07-2024 (2181. Merge Nodes in Between Zeros)
 Solve Scaler Day 185 (Subsets II)
 Solve LeetCode POTD 05-07-2024 (2058. Find the Minimum and Maximum Number of Nodes Between Critical Points)
-Solve Scaler Day 186 (An Increment Problem
-)
+Solve Scaler Day 186 (An Increment Problem)
+Solve LeetCode POTD 06-07-2024 (2582. Pass the Pillow)
+Solve Scaler Day 187 (Populate Next Right Pointers Tree)
