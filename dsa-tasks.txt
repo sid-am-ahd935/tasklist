@@ -344,3 +344,4 @@ Solve LeetCode POTD 10-07-2024 (1598. Crawler Log Folder)
 Solve Scaler Day 191 (Minimum Characters required to make a String Palindromic)
 Solve LeetCode POTD 11-07-2024 (1190. Reverse Substrings Between Each Pair of Parentheses)
 Solve Scaler Day 192 (Convert to Palindrome)
+Solve LeetCode Question https://leetcode.com/problems/rotting-oranges/solutions/
