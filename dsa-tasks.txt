@@ -347,3 +347,5 @@ Solve Scaler Day 192 (Convert to Palindrome)
 Solve LeetCode Question https://leetcode.com/problems/rotting-oranges/solutions/
 Solve LeetCode POTD 12-07-2024 (1717. Maximum Score From Removing Substrings)
 Solve Scaler Day 193 (Subarray with given XOR)
+Solve LeetCode POTD 13-07-2024 (2751. Robot Collisions)
+Solve Scaler Day 194 (Kth Permutation Sequence)
