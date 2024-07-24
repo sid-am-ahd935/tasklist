@@ -364,3 +364,4 @@ Solve LeetCode POTD 20-07-2024 (1605. Find Valid Matrix Given Row and Column Sum
 Solve LeetCode POTD 21-07-2024 (2392. Build a Matrix With Conditions)
 Solve Scaler Day 203 (Two out of Three)
 Solve Scaler Day 204 (Sum Root to Leaf Numbers)
+Solve Scaler Day 205 (Substring Concatenation)
