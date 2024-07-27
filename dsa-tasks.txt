@@ -372,3 +372,4 @@ Solve Scaler Day 207 (Longest Substring Without Repeat)
 Solve LeetCode POTD 26-07-2024 (1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance)
 Solve Scaler Day 208 (Longest Substring Without Repeat)
 Solve LeetCode POTD 27-07-2024 (2976. Minimum Cost to Convert String I)
+Solve CloudKaptan Interview Question https://www.geeksforgeeks.org/the-painters-partition-problem-using-binary-search/
