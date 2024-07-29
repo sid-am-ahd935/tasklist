@@ -375,3 +375,5 @@ Solve LeetCode POTD 27-07-2024 (2976. Minimum Cost to Convert String I)
 Solve CloudKaptan Interview Question https://www.geeksforgeeks.org/the-painters-partition-problem-using-binary-search/
 Solve Scaler Day 209 (Pairs With Given Xor)
 Solve LeetCode POTD 28-07-2024 (2045. Second Minimum Time to Reach Destination)
+Solve Scaler Day 210 (Gray Code)
+Solve LeetCode POTD 29-07-2024 (1395. Count Number of Teams)
