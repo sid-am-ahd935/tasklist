@@ -381,3 +381,5 @@ Solve Scaler Day 211 (Path Sum)
 Solve LeetCode POTD 30-07-2024 (1653. Minimum Deletions to Make String Balanced)
 Solve Scaler Day 211 (Path Sum)
 Solve LeetCode POTD 31-07-2024 (Letter Phone)
+Solve Scaler Day 213 (Water Flow)
+Solve Arsh Goyal: [1499. Max Value of Equation]
