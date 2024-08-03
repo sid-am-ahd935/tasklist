@@ -386,3 +386,6 @@ Solve Arsh Goyal: [1499. Max Value of Equation]
 Solve LeetCode POTD 02-08-2024 (2134. Minimum Swaps to Group All 1's Together II)
 Solve Scaler Day 214 (Capture Regions on Board)
 Solve Arsh Goyal: [Rabin-Karp Algorithm for Pattern Searching]
+Solve LeetCode POTD 03-08-2024 (1460. Make Two Arrays Equal by Reversing Subarrays)
+Solve Scaler Day 215 (Min Depth of Binary Tree)
+Solve Arsh Goyal: [65. Valid Number, 273. Integer to English Words, 76. Minimum Window Substring, 68. Text Justification]
