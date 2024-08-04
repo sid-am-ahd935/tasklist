@@ -389,3 +389,7 @@ Solve Arsh Goyal: [Rabin-Karp Algorithm for Pattern Searching]
 Solve LeetCode POTD 03-08-2024 (1460. Make Two Arrays Equal by Reversing Subarrays)
 Solve Scaler Day 215 (Min Depth of Binary Tree)
 Solve Arsh Goyal: [65. Valid Number, 273. Integer to English Words, 76. Minimum Window Substring, 68. Text Justification]
+Solve LeetCode Contest Weekly 409 {https://leetcode.com/contest/weekly-contest-409/problems/shortest-distance-after-road-addition-queries-i/}
+Solve LeetCode POTD 04-08-2024 (1508. Range Sum of Sorted Subarray Sums)
+Solve Scaler Day 216 (Root to Leaf Paths With Sum)
+Solve Arsh Goyal: [49. Group Anagrams, Word Wrap, 227. Basic Calculator II]
