@@ -395,3 +395,5 @@ Solve Scaler Day 216 (Root to Leaf Paths With Sum)
 Solve Arsh Goyal: [49. Group Anagrams, Word Wrap, 227. Basic Calculator II, 211. Design Add and Search Words Data Structure, 208. Implement Trie (Prefix Tree), Word Break (Trie)]
 Solve Scaler Day 217 (Seats)
 Solve Arsh Goyal: [Boyer Moore Algorithm for Pattern Searching, Search Pattern (Rabin-Karp Algorithm), Print Anagrams Together, 115. Distinct Subsequences, 493. Reverse Pairs, Smallest window in a string containing all the characters of another string]
+Solve LeetCode POTD 06-08-2024 (3016. Minimum Number of Pushes to Type Word II)
+Solve Scaler Day 218 (Remove Half Nodes)
