@@ -397,3 +397,4 @@ Solve Scaler Day 217 (Seats)
 Solve Arsh Goyal: [Boyer Moore Algorithm for Pattern Searching, Search Pattern (Rabin-Karp Algorithm), Print Anagrams Together, 115. Distinct Subsequences, 493. Reverse Pairs, Smallest window in a string containing all the characters of another string]
 Solve LeetCode POTD 06-08-2024 (3016. Minimum Number of Pushes to Type Word II)
 Solve Scaler Day 218 (Remove Half Nodes)
+Solve Arsh Goyal: [Find_the_number_of_islands_using_DFS.cpp, Given_matrix_of_O_and_X_replace_O_with_X_if_surrounded_by _X_.cpp, Maximum_size_rectangle_binary_sub_matrix_with_all_1s.cpp]
