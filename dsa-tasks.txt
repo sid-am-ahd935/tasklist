@@ -400,3 +400,4 @@ Solve Scaler Day 218 (Remove Half Nodes)
 Solve Arsh Goyal: [Find_the_number_of_islands_using_DFS.cpp, Given_matrix_of_O_and_X_replace_O_with_X_if_surrounded_by _X_.cpp, Maximum_size_rectangle_binary_sub_matrix_with_all_1s.cpp]
 Solve LeetCode POTD 07-08-2024 (273. Integer to English Words)
 Solve Scaler Day 219 (Assign Mice to Holes)
+Solve Arsh Goyal: [Check if reversing a sub array make the array sorted, Radix Sort, 162. Find Peak Element]
