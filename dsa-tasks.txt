@@ -401,3 +401,6 @@ Solve Arsh Goyal: [Find_the_number_of_islands_using_DFS.cpp, Given_matrix_of_O_a
 Solve LeetCode POTD 07-08-2024 (273. Integer to English Words)
 Solve Scaler Day 219 (Assign Mice to Holes)
 Solve Arsh Goyal: [Check if reversing a sub array make the array sorted, Radix Sort, 162. Find Peak Element]
+Solve LeetCode POTD 08-08-2024 (885. Spiral Matrix III)
+Solve Scaler Day 220 (Max Sum Without Adjacent Elements)
+
