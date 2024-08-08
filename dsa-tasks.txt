@@ -403,5 +403,5 @@ Solve Scaler Day 219 (Assign Mice to Holes)
 Solve Arsh Goyal: [Check if reversing a sub array make the array sorted, Radix Sort, 162. Find Peak Element]
 Solve LeetCode POTD 08-08-2024 (885. Spiral Matrix III)
 Solve Scaler Day 220 (Max Sum Without Adjacent Elements)
-Solve Arsh Goyal: [844. Backspace String Compare, 232. Implement Queue using Stacks, 225. Implement Stack using Queues, 496. Next Greater Element I, Implement Stack and Queue using Deque]
+Solve Arsh Goyal: [844. Backspace String Compare, 232. Implement Queue using Stacks, 225. Implement Stack using Queues, 496. Next Greater Element I, Implement Stack and Queue using Deque, Evaluation of Postfix Expression]
 
