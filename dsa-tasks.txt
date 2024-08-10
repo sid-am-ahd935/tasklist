@@ -407,4 +407,6 @@ Solve Arsh Goyal: [844. Backspace String Compare, 232. Implement Queue using Sta
 Solve LeetCode POTD 09-08-2024 (840. Magic Squares In Grid)
 Solve Scaler Day 221 (Repeating Sub-Sequence)
 Solve Arsh Goyal: [739. Daily Temperatures, 1130. Minimum Cost Tree From Leaf Values, Implement two stacks in an array]
+Solve Scaler Day 222 (Distinct Subsequences)
+Solve LeetCode POTD 10-08-2024 (959. Regions Cut By Slashes)
 
