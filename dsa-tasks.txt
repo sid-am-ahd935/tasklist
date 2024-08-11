@@ -1,4 +1,4 @@
-Solve LeetCode POTD 25-12-2023 (91. Decode Ways)
+ Solve LeetCode POTD 25-12-2023 (91. Decode Ways)
 Solve LeetCode POTD 26-12-2023 (1155. Number of Dice Rolls With Target Sum)
 Solve CodeRush December'23 [Rank Minimization] {https://my.newtonschool.co/course/uit55t66ux9r/assignment/mtdbgegi6qwo/dashboard?tab=questions}
 Solve LeetCode POTD 27-12-2023 (1578. Minimum Time to Make Rope Colorful)
@@ -411,3 +411,4 @@ Solve Scaler Day 222 (Distinct Subsequences)
 Solve LeetCode POTD 10-08-2024 (959. Regions Cut By Slashes)
 Solve Arsh Goyal: [Allocate Minimum Pages, AGGRCOW - Aggressive cows, Minimum Swaps to Sort]
 GFG DSA QUestion: Make all array elements equal with minimum cost
+Solve LeetCode POTD 11-08-2024 (1568. Minimum Number of Days to Disconnect Island)
