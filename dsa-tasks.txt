@@ -412,3 +412,4 @@ Solve LeetCode POTD 10-08-2024 (959. Regions Cut By Slashes)
 Solve Arsh Goyal: [Allocate Minimum Pages, AGGRCOW - Aggressive cows, Minimum Swaps to Sort]
 GFG DSA QUestion: Make all array elements equal with minimum cost
 Solve LeetCode POTD 11-08-2024 (1568. Minimum Number of Days to Disconnect Island)
+Solve Scaler Day 223 (Scramble String)
