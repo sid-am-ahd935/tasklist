@@ -414,3 +414,6 @@ GFG DSA QUestion: Make all array elements equal with minimum cost
 Solve LeetCode POTD 11-08-2024 (1568. Minimum Number of Days to Disconnect Island)
 Solve Scaler Day 223 (Scramble String)
 Solve Arsh Goyal: [410. Split Array Largest Sum, 315. Count of Smaller Numbers After Self, 33. Search in Rotated Sorted Array]
+Solve LeetCode POTD 12-08-2024 (703. Kth Largest Element in a Stream)
+Solve Scaler Day 224 (Regular Expression Match)
+Solve Arsh Goyal: [2. Add Two Numbers, 138. Copy List with Random Pointer, 445. Add Two Numbers II]
