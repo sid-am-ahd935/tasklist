@@ -425,3 +425,7 @@ Solve Scaler Day 226 (Interleaving Strings)
 Solve Arsh Goyal: [307. Range Sum Query - Mutable, 327. Count of Range Sum]
 Solve Scaler Day 227 (Length of Longest Subsequence)
 Solve Arsh Goyal: [40. Combination Sum II, 77. Combinations, 90. Subsets II, M-Coloring Problem, 526. Beautiful Arrangement, 131. Palindrome Partitioning, 47. Permutations II, 48. Rotate Image]
+Solve LeetCode POTD 16-08-2024 (624. Maximum Distance in Arrays)
+Solve LeetCode POTD 17-08-2024 (1937. Maximum Number of Points with Cost)
+Solve Scaler Day 228 (Smallest sequence with given Primes)
+Solve Scaler Day 229 (Nodes at Distance K)
