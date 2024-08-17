@@ -1,4 +1,4 @@
- Solve LeetCode POTD 25-12-2023 (91. Decode Ways)
+Solve LeetCode POTD 25-12-2023 (91. Decode Ways)
 Solve LeetCode POTD 26-12-2023 (1155. Number of Dice Rolls With Target Sum)
 Solve CodeRush December'23 [Rank Minimization] {https://my.newtonschool.co/course/uit55t66ux9r/assignment/mtdbgegi6qwo/dashboard?tab=questions}
 Solve LeetCode POTD 27-12-2023 (1578. Minimum Time to Make Rope Colorful)
@@ -429,3 +429,20 @@ Solve LeetCode POTD 16-08-2024 (624. Maximum Distance in Arrays)
 Solve LeetCode POTD 17-08-2024 (1937. Maximum Number of Points with Cost)
 Solve Scaler Day 228 (Smallest sequence with given Primes)
 Solve Scaler Day 229 (Nodes at Distance K)
+Solve Arsh Goyal: [
+   Smallest Positive Missing,
+   Reverse Linked List II, 
+   Reorder List,
+   Remove Nth Node From End of List,
+   Flatten a Multilevel Doubly Linked List,
+   Partition List,
+   Remove Duplicates from Sorted List II,
+   Rearrange a Linked List in Zig-Zag fashion,
+   Sort List,
+   Segregate even and odd nodes in a Linked List,
+   Rearrange a given linked list in-place,
+   Merge k Sorted Lists,
+   Reverse Nodes in k-Group,
+   Subtraction in Linked List,
+   Flattening a Linked List
+]
