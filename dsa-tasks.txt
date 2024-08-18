@@ -451,4 +451,14 @@ Solve LeetCode Contest Weekly 411 {https://leetcode.com/contest/weekly-contest-4
 Solve LeetCode Contest Weekly 411 {https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks/}
 Solve LeetCode Contest Weekly 411 {https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-ii/description/}
 Solve Scaler Day 230 (Word Search Board)
-
+Solve Arsh Goyal: [
+Partition Equal Subset Sum,
+887. Super Egg Drop,
+312. Burst Balloons,
+85. Maximal Rectangle,
+730. Count Different Palindromic Subsequences,
+1000. Minimum Cost to Merge Stones,
+42. Trapping Rain Water,
+Largest area rectangular sub-matrix with equal number of 1’s and 0’s,
+1312. Minimum Insertion Steps to Make a String Palindrome,
+]
