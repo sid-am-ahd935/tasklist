@@ -465,5 +465,9 @@ Largest area rectangular sub-matrix with equal number of 1’s and 0’s,
 Solve LeetCode POTD 19-08-2024 (650. 2 Keys Keyboard)
 Solve Scaler Day 231 (Last Node in a Complete Binary Tree)
 Solve Arsh Goyal: [
-
+78. Subsets,
+Largest number in K swaps,
+980. Unique Paths III,
+37. Sudoku Solver,
+51. N-Queens
 ]
