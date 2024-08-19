@@ -446,7 +446,7 @@ Solve Arsh Goyal: [
    Subtraction in Linked List,
    Flattening a Linked List
 ]
-Solve LeetCode POTD 18-08-2024 (264. Ugly Number II)
+Solve LeetCode POTD 18-08-2024 (264. Ugly iiiiiNumber II)
 Solve LeetCode Contest Weekly 411 {https://leetcode.com/contest/weekly-contest-411/problems/find-the-largest-palindrome-divisible-by-k/description/}
 Solve LeetCode Contest Weekly 411 {https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks/}
 Solve LeetCode Contest Weekly 411 {https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-ii/description/}
@@ -461,4 +461,9 @@ Partition Equal Subset Sum,
 42. Trapping Rain Water,
 Largest area rectangular sub-matrix with equal number of 1’s and 0’s,
 1312. Minimum Insertion Steps to Make a String Palindrome,
+]
+Solve LeetCode POTD 19-08-2024 (650. 2 Keys Keyboard)
+Solve Scaler Day 231 (Last Node in a Complete Binary Tree)
+Solve Arsh Goyal: [
+
 ]
