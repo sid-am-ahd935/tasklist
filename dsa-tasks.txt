@@ -471,3 +471,14 @@ Largest number in K swaps,
 37. Sudoku Solver,
 51. N-Queens
 ]
+Solve LeetCode POTD 20-08-2024 (1140. Stone Game II)
+Solve Scaler Day 232 (Flip Array)
+Solve Arsh Goyal: [
+The Celebrity Problem,
+146. LRU Cache,
+Maximum of minimum for every window size,
+341. Flatten Nested List Iterator,
+1209. Remove All Adjacent Duplicates in String II,
+Circular tour,
+150. Evaluate Reverse Polish Notation
+]
