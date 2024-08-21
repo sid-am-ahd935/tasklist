@@ -482,3 +482,17 @@ Maximum of minimum for every window size,
 Circular tour,
 150. Evaluate Reverse Polish Notation
 ]
+Solve LeetCode POTD 21-08-2024 (664. Strange Printer)
+Solve Scaler Day 233 (Tushar's Birthday Party)
+Solve Arsh Goyal: [
+Find all possible palindromic partitions of a String,
+Find paths from corner cell to middle cell in maze,
+424. Longest Repeating Character Replacement,
+901. Online Stock Span,
+Rotten Oranges,
+907. Sum of Subarray Minimums,
+1610. Maximum Number of Visible Points,
+Partition array to K subsets,
+Tug of War,
+Solving Cryptarithmetic Puzzles
+]
