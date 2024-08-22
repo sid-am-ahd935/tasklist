@@ -496,3 +496,5 @@ Partition array to K subsets,
 Tug of War,
 Solving Cryptarithmetic Puzzles
 ]
+Solve LeetCode POTD 22-08-2024 (476. Number Complement)
+Solve Scaler Day 234 (0-1 Knapsack)
