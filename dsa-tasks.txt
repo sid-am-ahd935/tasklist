@@ -498,3 +498,11 @@ Solving Cryptarithmetic Puzzles
 ]
 Solve LeetCode POTD 22-08-2024 (476. Number Complement)
 Solve Scaler Day 234 (0-1 Knapsack)
+Solve Arsh Goyal: [
+239. Sliding Window Maximum,
+778. Swim in Rising Water,
+857. Minimum Cost to Hire K Workers,
+871. Minimum Number of Refueling Stops,
+Phone directory,
+336. Palindrome Pairs
+]
