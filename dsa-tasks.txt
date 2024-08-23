@@ -509,5 +509,13 @@ Phone directory,
 Solve LeetCode POTD 23-08-2024 (592. Fraction Addition and Subtraction)
 Solve Scaler Day 235 (Equal Average Partition)
 Solve Arsh Goyal: [
-
+1578. Minimum Time to Make Rope Colorful,
+435. Non-overlapping Intervals,
+CHOCOLA - Chocolate,
+402. Remove K Digits,
+1647. Minimum Deletions to Make Character Frequencies Unique,
+1743. Restore the Array From Adjacent Pairs,
+134. Gas Station,
+621. Task Scheduler,
+Minimum cost for acquiring all coins with k extra coins allowed with every coin
 ]
