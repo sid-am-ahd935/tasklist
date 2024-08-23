@@ -506,3 +506,8 @@ Solve Arsh Goyal: [
 Phone directory,
 336. Palindrome Pairs
 ]
+Solve LeetCode POTD 23-08-2024 (592. Fraction Addition and Subtraction)
+Solve Scaler Day 235 (Equal Average Partition)
+Solve Arsh Goyal: [
+
+]
