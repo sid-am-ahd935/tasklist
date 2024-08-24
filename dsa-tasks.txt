@@ -519,3 +519,8 @@ CHOCOLA - Chocolate,
 621. Task Scheduler,
 Minimum cost for acquiring all coins with k extra coins allowed with every coin
 ]
+Solve LeetCode POTD 24-08-2024 (564. Find the Closest Palindrome)
+Solve Scaler Day 236 (Potions)
+Solve Arsh Goyal: [
+
+]
