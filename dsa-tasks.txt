@@ -522,5 +522,15 @@ Minimum cost for acquiring all coins with k extra coins allowed with every coin
 Solve LeetCode POTD 24-08-2024 (564. Find the Closest Palindrome)
 Solve Scaler Day 236 (Potions)
 Solve Arsh Goyal: [
-
+684. Redundant Connection,
+Minimize Cash Flow among a given set of friends who have borrowed money from each other,
+127. Word Ladder,
+Total number of Spanning Trees in a Graph,
+Travelling Salesman Problem using Dynamic Programming,
+Water Jug problem using BFS,
+1192. Critical Connections in a Network,
+Alien Dictionary,
+546. Remove Boxes,
+827. Making A Large Island,
+329. Longest Increasing Path in a Matrix
 ]
