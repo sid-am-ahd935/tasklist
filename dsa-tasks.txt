@@ -534,3 +534,7 @@ Alien Dictionary,
 827. Making A Large Island,
 329. Longest Increasing Path in a Matrix
 ]
+Solve Scaler Day 237 (Largest area of rectangle with permutations)
+Solve Arsh Goyal: [
+
+]
