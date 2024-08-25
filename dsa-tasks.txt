@@ -536,5 +536,15 @@ Alien Dictionary,
 ]
 Solve Scaler Day 237 (Largest area of rectangle with permutations)
 Solve Arsh Goyal: [
-
+987. Vertical Order Traversal of a Binary Tree,
+297. Serialize and Deserialize Binary Tree,
+124. Binary Tree Maximum Path Sum,
+834. Sum of Distances in Tree,
+Median of BST,
+Print all k-sum paths in a binary tree,
+Largest BST,
+Construct Tree from Preorder Traversal,
+968. Binary Tree Cameras,
+Binary Tree to DLL,
+Preorder to BST
 ]
