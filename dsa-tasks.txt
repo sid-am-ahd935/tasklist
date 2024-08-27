@@ -558,3 +558,19 @@ Largest subarray with 0 sum,
 1673. Find the Most Competitive Subsequence,
 767. Reorganize String
 ]
+Solve LeetCode POTD 27-08-2024 (1514. Path with Maximum Probability)
+Solve Scaler Day 239 (Paint House!)
+Solve Arsh Goyal: [
+226. Invert Binary Tree,
+938. Range Sum of BST,
+572. Subtree of Another Tree,
+617. Merge Two Binary Trees,
+108. Convert Sorted Array to Binary Search Tree,
+101. Symmetric Tree,
+104. Maximum Depth of Binary Tree,
+257. Binary Tree Paths,
+112. Path Sum,
+100. Same Tree,
+530. Minimum Absolute Difference in BST,
+235. Lowest Common Ancestor of a Binary Search Tree
+]
