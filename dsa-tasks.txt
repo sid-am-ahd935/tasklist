@@ -631,4 +631,26 @@ Bipartite Graph
 Solve LeetCode POTD 29-08-2024 (947. Most Stones Removed with Same Row or Column)
 Solve Scaler Day 241 (Ways to Decode)
 Solve Arsh Goyal: [
+70. Climbing Stairs,
+152. Maximum Product Subarray,
+474. Ones and Zeroes,
+338. Counting Bits,
+935. Knight Dialer,
+Maximize The Cut Segments,
+62. Unique Paths,
+64. Minimum Path Sum,
+322. Coin Change,
+91. Decode Ways,
+ 718. Maximum Length of Repeated Subarray,
+300. Longest Increasing Subsequence,
+Longest Common Substring,
+1277. Count Square Submatrices with All Ones,
+221. Maximal Square,
+Mobile numeric keypad,
+Job Sequencing Problem,
+740. Delete and Earn,
+304. Range Sum Query 2D - Immutable,
+Optimal binary search tree,
+ 403. Frog Jump,
+188. Best Time to Buy and Sell Stock IV
 ]
