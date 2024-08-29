@@ -628,3 +628,7 @@ Topological sort,
 Detect a negative cycle in a Graph | (Bellman Ford),
 Bipartite Graph
 ]
+Solve LeetCode POTD 29-08-2024 (947. Most Stones Removed with Same Row or Column)
+Solve Scaler Day 241 (Ways to Decode)
+Solve Arsh Goyal: [
+]
