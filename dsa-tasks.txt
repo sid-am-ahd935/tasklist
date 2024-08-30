@@ -654,3 +654,4 @@ Optimal binary search tree,
  403. Frog Jump,
 188. Best Time to Buy and Sell Stock IV
 ]
+Solve LeetCode POTD 30-08-2024 (2699. Modify Graph Edge Weights)
