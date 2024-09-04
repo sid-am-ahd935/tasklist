@@ -664,3 +664,5 @@ Solve LeetCode POTD 02-09-2024 (1894. Find the Student that Will Replace the Cha
 Solve Scaler Day 245 (Count Permutations of BST)
 Solve LeetCode POTD 03-09-2024 (1945. Sum of Digits of String After Convert)
 Solve Scaler Day 246 (Tushar's Birthday Bombs)
+Solve LeetCode POTD 04-09-2024 (874. Walking Robot Simulation)
+Solve Scaler Day 247 (Order of People Heights)
