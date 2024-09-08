@@ -672,3 +672,5 @@ Solve LeetCode POTD 06-09-2024 (3217. Delete Nodes From Linked List Present in A
 Solve Scaler Day 249 (Min Jumps Array)
 Solve LeetCode POTD 07-09-2024 (1367. Linked List in Binary Tree)
 Solve Scaler Day 250 (Longest Arithmetic Progression)
+Solve LeetCode POTD 08-09-2024 (725. Split Linked List in Parts)
+Solve Scaler Day 251 (N digit numbers with digit sum S)
