@@ -686,3 +686,6 @@ Solve LeetCode POTD 13-09-2024 (1310. XOR Queries of a Subarray)
 Solve Scaler Day 256 (Best Time to Buy and Sell Stock atmost B times)
 Solve LeetCode POTD 14-09-2024 (2419. Longest Subarray With Maximum Bitwise AND)
 Solve Scaler Day 257 (Coins in a Line)
+Solve LeetCode POTD 15-09-2024 (1371. Find the Longest Substring Containing Vowels in Even Counts)
+Solve Scaler Day 258 (Evaluate Expression To True)
+Solve LeetCode Contest Weekly 409 (Q2. Maximum Multiplication Score) {https://leetcode.com/contest/weekly-contest-415/problems/maximum-multiplication-score/description/}
