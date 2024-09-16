@@ -689,3 +689,5 @@ Solve Scaler Day 257 (Coins in a Line)
 Solve LeetCode POTD 15-09-2024 (1371. Find the Longest Substring Containing Vowels in Even Counts)
 Solve Scaler Day 258 (Evaluate Expression To True)
 Solve LeetCode Contest Weekly 409 (Q2. Maximum Multiplication Score) {https://leetcode.com/contest/weekly-contest-415/problems/maximum-multiplication-score/description/}
+Solve LeetCode POTD 16-09-2024 (539. Minimum Time Difference)
+Solve Scaler Day 259 (Egg Drop Problem!)
