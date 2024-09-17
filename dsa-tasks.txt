@@ -691,3 +691,5 @@ Solve Scaler Day 258 (Evaluate Expression To True)
 Solve LeetCode Contest Weekly 409 (Q2. Maximum Multiplication Score) {https://leetcode.com/contest/weekly-contest-415/problems/maximum-multiplication-score/description/}
 Solve LeetCode POTD 16-09-2024 (539. Minimum Time Difference)
 Solve Scaler Day 259 (Egg Drop Problem!)
+Solve LeetCode POTD 17-09-2024 (884. Uncommon Words from Two Sentences)
+Solve Scaler Day 260 (Best Time to Buy and Sell Stocks III)
