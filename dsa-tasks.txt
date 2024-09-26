@@ -709,3 +709,5 @@ Solve LeetCode POTD 24-09-2024 (3043. Find the Length of the Longest Common Pref
 Solve Scaler Day 267 (Minimum Difference Subsets!)
 Solve LeetCode POTD 25-09-2024 (2416. Sum of Prefix Scores of Strings)
 Solve Scaler Day 268 (Subset Sum Problem!)
+Solve LeetCode POTD 26-09-2024 (729. My Calendar I)
+Solve Scaler Day 269 (Min Sum Path in Triangle)
