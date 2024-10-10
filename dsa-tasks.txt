@@ -737,3 +737,5 @@ Solve LeetCode POTD 08-10-2024 (1963. Minimum Number of Swaps to Make the String
 Solve Scaler Day 281 (Balanced Binary Tree)
 Solve LeetCode POTD 09-10-2024 (921. Minimum Add to Make Parentheses Valid)
 Solve Scaler Day 282 (Invert the Binary Tree)
+Solve LeetCode POTD 10-10-2024 (962. Maximum Width Ramp)
+Solve Scaler Day 283 (Maximum Edge Removal)
