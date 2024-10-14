@@ -745,3 +745,5 @@ Solve LeetCode POTD 12-10-2024 (2406. Divide Intervals Into Minimum Number of Gr
 Solve Scaler Day 285 (Merge two Binary Tree)
 Solve LeetCode POTD 13-10-2024 (632. Smallest Range Covering Elements from K Lists)
 Solve Scaler Day 286 (Symmetric Binary Tree)
+Solve LeetCode POTD 14-10-2024 (2530. Maximal Score After Applying K Operations)
+Solve Scaler Day 287 (Identical Binary Trees)
