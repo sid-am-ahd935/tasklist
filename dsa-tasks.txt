@@ -747,3 +747,5 @@ Solve LeetCode POTD 13-10-2024 (632. Smallest Range Covering Elements from K Lis
 Solve Scaler Day 286 (Symmetric Binary Tree)
 Solve LeetCode POTD 14-10-2024 (2530. Maximal Score After Applying K Operations)
 Solve Scaler Day 287 (Identical Binary Trees)
+Solve LeetCode POTD 15-10-2024 (2938. Separate Black and White Balls)
+Solve Scaler Day 288 (Flatten Binary Tree to Linked List)
