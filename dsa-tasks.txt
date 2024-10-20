@@ -757,3 +757,5 @@ Solve LeetCode POTD 18-10-2024 (2044. Count Number of Maximum Bitwise-OR Subsets
 Solve Scaler Day 291 (Construct Binary Tree From Inorder And Preorder)
 Solve LeetCode POTD 19-10-2024 (1545. Find Kth Bit in Nth Binary String)
 Solve Scaler Day 292 (Binary Tree From Inorder And Postorder)
+Solve LeetCode POTD 20-10-2024 (1106. Parsing A Boolean Expression)
+Solve Scaler Day 293 (Vertical Order traversal of Binary Tree)
