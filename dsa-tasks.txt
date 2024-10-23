@@ -763,3 +763,5 @@ Solve LeetCode POTD 21-10-2024 (1593. Split a String Into the Max Number of Uniq
 Solve Scaler Day 294 (Largest Distance between nodes of a Tree)
 Solve LeetCode POTD 22-10-2024 (2583. Kth Largest Sum in a Binary Tree)
 Solve Scaler Day 295 (Good Graph)
+Solve LeetCode POTD 23-10-2024 (2641. Cousins in Binary Tree II)
+Solve Scaler Day 296 (Cycle in Directed Graph)
