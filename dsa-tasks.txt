@@ -773,3 +773,5 @@ Solve LeetCode POTD 26-10-2024 (2458. Height of Binary Tree After Subtree Remova
 Solve Scaler Day 299 (Valid Path)
 Solve LeetCode POTD 27-10-2024 (1277. Count Square Submatrices with All Ones)
 Solve Scaler Day 300 (Clone Graph)
+Solve LeetCode POTD 28-10-2024 (2501. Longest Square Streak in an Array)
+Solve Scaler Day 301 (Region in BinaryMatrix)
