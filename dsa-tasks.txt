@@ -793,3 +793,5 @@ Solve LeetCode POTD 05-11-2024 (2914. Minimum Number of Changes to Make Binary S
 Solve Scaler Day 309 (Unique Binary Search Trees)
 Solve LeetCode POTD 06-11-2024 (3011. Find if Array Can Be Sorted)
 Solve Scaler Day 310 (Reorder List)
+Solve LeetCode POTD 07-11-2024 (2275. Largest Combination With Bitwise AND Greater Than Zero)
+Solve Scaler Day 311 (Reverse Link List II)
