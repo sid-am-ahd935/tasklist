@@ -801,5 +801,5 @@ Solve LeetCode POTD 09-11-2024 (3133. Minimum Array End)
 Solve Scaler Day 313 (Repeat and Missing Number Array)
 Solve LeetCode POTD 10-11-2024 (3097. Shortest Subarray With OR at Least K II)
 Solve Scaler Day 314 (Merge Overlapping Intervals)
-Solve LeetCode Contest Weekly 380 (Q1-2) {https://leetcode.com/contest/weekly-contest-423/}
+Solve LeetCode Contest Weekly 423 (Q1-2) {https://leetcode.com/contest/weekly-contest-423/}
 
