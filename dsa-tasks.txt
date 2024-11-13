@@ -807,5 +807,5 @@ Solve Scaler Day 315 (Spiral Order Matrix II)
 Solve LeetCode POTD 12-11-2024 (2070. Most Beautiful Item for Each Query)
 Solve Scaler Day 316 (Largest Number)
 Solve LeetCode POTD 13-11-2024 (2563. Count the Number of Fair Pairs)
-Solve Scaler Day 316 (First Missing Integer)
+Solve Scaler Day 317 (First Missing Integer)
 
