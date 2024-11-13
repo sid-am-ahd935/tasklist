@@ -804,4 +804,6 @@ Solve Scaler Day 314 (Merge Overlapping Intervals)
 Solve LeetCode Contest Weekly 423 (Q1-2) {https://leetcode.com/contest/weekly-contest-423/}
 Solve LeetCode POTD 11-11-2024 (2601. Prime Subtraction Operation)
 Solve Scaler Day 315 (Spiral Order Matrix II)
+Solve LeetCode POTD 12-11-2024 (2070. Most Beautiful Item for Each Query)
+Solve Scaler Day 316 (Largest Number)
 
