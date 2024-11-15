@@ -810,4 +810,6 @@ Solve LeetCode POTD 13-11-2024 (2563. Count the Number of Fair Pairs)
 Solve Scaler Day 317 (First Missing Integer)
 Solve LeetCode POTD 14-11-2024 (2064. Minimized Maximum of Products Distributed to Any Store)
 Solve Scaler Day 318 (Maximum Consecutive Gap)
+Solve LeetCode POTD 15-11-2024 (1574. Shortest Subarray to be Removed to Make Array Sorted)
+Solve Scaler Day 319 (Max Distance)
 
