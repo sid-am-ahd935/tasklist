@@ -814,4 +814,6 @@ Solve LeetCode POTD 15-11-2024 (1574. Shortest Subarray to be Removed to Make Ar
 Solve Scaler Day 319 (Max Distance)
 Solve LeetCode POTD 16-11-2024 (3254. Find the Power of K-Size Subarrays I)
 Solve Scaler Day 320 (Next Permutation)
+Solve LeetCode POTD 17-11-2024 (862. Shortest Subarray with Sum at Least K)
+Solve Scaler Day 321 (Excel Column Number)
 
