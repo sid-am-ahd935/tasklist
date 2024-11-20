@@ -819,5 +819,7 @@ Solve Scaler Day 321 (Excel Column Number)
 Solve LeetCode POTD 18-11-2024 (1652. Defuse the Bomb)
 Solve Scaler Day 322 (Excel Column Title)
 Solve LeetCode POTD 19-11-2024 (2461. Maximum Sum of Distinct Subarrays With Length K)
-Solve Scaler Day 322 (Grid Unique Paths)
+Solve Scaler Day 323 (Grid Unique Paths)
+Solve LeetCode POTD 20-11-2024 (2516. Take K of Each Character From Left and Right)
+Solve Scaler Day 324 (Trailing Zeros in Factorial)
 
