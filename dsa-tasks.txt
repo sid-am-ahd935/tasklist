@@ -822,4 +822,6 @@ Solve LeetCode POTD 19-11-2024 (2461. Maximum Sum of Distinct Subarrays With Len
 Solve Scaler Day 323 (Grid Unique Paths)
 Solve LeetCode POTD 20-11-2024 (2516. Take K of Each Character From Left and Right)
 Solve Scaler Day 324 (Trailing Zeros in Factorial)
+Solve LeetCode POTD 21-11-2024 (2257. Count Unguarded Cells in the Grid)
+Solve Scaler Day 325 (All Unique Permutations)
 
