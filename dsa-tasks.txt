@@ -826,4 +826,6 @@ Solve LeetCode POTD 21-11-2024 (2257. Count Unguarded Cells in the Grid)
 Solve Scaler Day 325 (All Unique Permutations)
 Solve LeetCode POTD 22-11-2024 (1072. Flip Columns For Maximum Number of Equal Rows)
 Solve Scaler Day 326 (Generate all Parentheses II)
+Solve LeetCode POTD 23-11-2024 (1861. Rotating the Box)
+Solve Scaler Day 327 (Palindrome Partitioning)
 
