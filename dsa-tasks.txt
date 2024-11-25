@@ -828,4 +828,8 @@ Solve LeetCode POTD 22-11-2024 (1072. Flip Columns For Maximum Number of Equal R
 Solve Scaler Day 326 (Generate all Parentheses II)
 Solve LeetCode POTD 23-11-2024 (1861. Rotating the Box)
 Solve Scaler Day 327 (Palindrome Partitioning)
+Solve LeetCode POTD 24-11-2024 (1975. Maximum Matrix Sum)
+Solve Scaler Day 328 (Anagrams)
+Solve LeetCode POTD 25-11-2024 (773. Sliding Puzzle)
+Solve Scaler Day 329 (Fraction)
 
