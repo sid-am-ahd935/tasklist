@@ -832,4 +832,6 @@ Solve LeetCode POTD 24-11-2024 (1975. Maximum Matrix Sum)
 Solve Scaler Day 328 (Anagrams)
 Solve LeetCode POTD 25-11-2024 (773. Sliding Puzzle)
 Solve Scaler Day 329 (Fraction)
+Solve LeetCode POTD 26-11-2024 (2924. Find Champion II)
+Solve Scaler Day 330 (Points on the Straight Line)
 
