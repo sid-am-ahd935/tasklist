@@ -838,4 +838,6 @@ Solve LeetCode POTD 27-11-2024 (3243. Shortest Distance After Road Addition Quer
 Solve Scaler Day 331 (Sort by Color)
 Solve LeetCode POTD 28-11-2024 (2290. Minimum Obstacle Removal to Reach Corner)
 Solve Scaler Day 332 (Copy List)
+Solve LeetCode POTD 29-11-2024 (2577. Minimum Time to Visit a Cell In a Grid)
+Solve Scaler Day 333 (Array 3 Pointers)
 
