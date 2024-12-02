@@ -843,4 +843,6 @@ Solve Scaler Day 333 (Array 3 Pointers)
 Solve LeetCode POTD 30-11-2024 (2097. Valid Arrangement of Pairs)
 Solve Scaler Day 334 (Container With Most Water)
 Solve Scaler Day 335 (Remove Duplicates from Sorted Array II)
+Solve LeetCode POTD 02-12-2024 (1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence)
+Solve Scaler Day 336 (Integer To Roman)
 
