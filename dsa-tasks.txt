@@ -847,4 +847,6 @@ Solve LeetCode POTD 02-12-2024 (1455. Check If a Word Occurs As a Prefix of Any 
 Solve Scaler Day 336 (Integer To Roman)
 Solve LeetCode POTD 03-12-2024 (2109. Adding Spaces to a String)
 Solve Scaler Day 337 (Roman To Integer)
+Solve LeetCode POTD 04-12-2024 (2825. Make String a Subsequence Using Cyclic Increments)
+Solve Scaler Day 338 (Multiply Strings)
 
