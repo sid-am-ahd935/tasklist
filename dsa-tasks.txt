@@ -849,4 +849,6 @@ Solve LeetCode POTD 03-12-2024 (2109. Adding Spaces to a String)
 Solve Scaler Day 337 (Roman To Integer)
 Solve LeetCode POTD 04-12-2024 (2825. Make String a Subsequence Using Cyclic Increments)
 Solve Scaler Day 338 (Multiply Strings)
+Solve LeetCode POTD 05-12-2024 (2337. Move Pieces to Obtain a String)
+Solve Scaler Day 339 (Single Number II)
 
