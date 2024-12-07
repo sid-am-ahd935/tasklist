@@ -853,4 +853,6 @@ Solve LeetCode POTD 05-12-2024 (2337. Move Pieces to Obtain a String)
 Solve Scaler Day 339 (Single Number II)
 Solve LeetCode POTD 06-12-2024 (2554. Maximum Number of Integers to Choose From a Range I)
 Solve Scaler Day 340 (Inorder Traversal)
+Solve LeetCode POTD 07-12-2024 (1760. Minimum Limit of Balls in a Bag)
+Solve Scaler Day 341 (Search for a Range)
 
