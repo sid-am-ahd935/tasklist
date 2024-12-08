@@ -855,4 +855,6 @@ Solve LeetCode POTD 06-12-2024 (2554. Maximum Number of Integers to Choose From 
 Solve Scaler Day 340 (Inorder Traversal)
 Solve LeetCode POTD 07-12-2024 (1760. Minimum Limit of Balls in a Bag)
 Solve Scaler Day 341 (Search for a Range)
+Solve LeetCode POTD 08-12-2024 (2054. Two Best Non-Overlapping Events)
+Solve Scaler Day 342 (Rotated Sorted Array Search)
 
