@@ -857,4 +857,6 @@ Solve LeetCode POTD 07-12-2024 (1760. Minimum Limit of Balls in a Bag)
 Solve Scaler Day 341 (Search for a Range)
 Solve LeetCode POTD 08-12-2024 (2054. Two Best Non-Overlapping Events)
 Solve Scaler Day 342 (Rotated Sorted Array Search)
+Solve LeetCode POTD 09-12-2024 (3152. Special Array II)
+Solve Scaler Day 343 (Sorted Insert Position)
 
