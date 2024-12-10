@@ -859,4 +859,6 @@ Solve LeetCode POTD 08-12-2024 (2054. Two Best Non-Overlapping Events)
 Solve Scaler Day 342 (Rotated Sorted Array Search)
 Solve LeetCode POTD 09-12-2024 (3152. Special Array II)
 Solve Scaler Day 343 (Sorted Insert Position)
+Solve LeetCode POTD 10-12-2024 (2981. Find Longest Special Substring That Occurs Thrice I)
+Solve Scaler Day 344 (Add Binary Strings)
 
