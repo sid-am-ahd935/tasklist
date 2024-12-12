@@ -863,4 +863,6 @@ Solve LeetCode POTD 10-12-2024 (2981. Find Longest Special Substring That Occurs
 Solve Scaler Day 344 (Add Binary Strings)
 Solve LeetCode POTD 11-12-2024 (2779. Maximum Beauty of an Array After Applying Operation)
 Solve Scaler Day 345 (Merge K Sorted Lists)
+Solve LeetCode POTD 12-12-2024 (2558. Take Gifts From the Richest Pile)
+Solve Scaler Day 346 (Valid Binary Search Tree)
 
