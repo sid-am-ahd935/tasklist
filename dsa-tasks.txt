@@ -865,4 +865,6 @@ Solve LeetCode POTD 11-12-2024 (2779. Maximum Beauty of an Array After Applying 
 Solve Scaler Day 345 (Merge K Sorted Lists)
 Solve LeetCode POTD 12-12-2024 (2558. Take Gifts From the Richest Pile)
 Solve Scaler Day 346 (Valid Binary Search Tree)
+Solve LeetCode POTD 13-12-2024 (2593. Find Score of an Array After Marking All Elements)
+Solve Scaler Day 347 (Preorder Traversal)
 
