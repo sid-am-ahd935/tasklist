@@ -867,4 +867,8 @@ Solve LeetCode POTD 12-12-2024 (2558. Take Gifts From the Richest Pile)
 Solve Scaler Day 346 (Valid Binary Search Tree)
 Solve LeetCode POTD 13-12-2024 (2593. Find Score of an Array After Marking All Elements)
 Solve Scaler Day 347 (Preorder Traversal)
+Solve LeetCode POTD 14-12-2024 (2762. Continuous Subarrays)
+Solve Scaler Day 348 (Postorder Traversal)
+Solve LeetCode POTD 15-12-2024 (1792. Maximum Average Pass Ratio)
+Solve Scaler Day 349 (Next Pointer Binary Tree)
 
