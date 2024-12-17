@@ -873,4 +873,6 @@ Solve LeetCode POTD 15-12-2024 (1792. Maximum Average Pass Ratio)
 Solve Scaler Day 349 (Next Pointer Binary Tree)
 Solve LeetCode POTD 16-12-2024 (3264. Final Array State After K Multiplication Operations I)
 Solve Scaler Day 350 (LRU Cache)
+Solve LeetCode POTD 17-12-2024 (2182. Construct String With Repeat Limit)
+Solve Scaler Day 351 (Rearrange Array)
 
