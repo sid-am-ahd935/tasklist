@@ -877,4 +877,6 @@ Solve LeetCode POTD 17-12-2024 (2182. Construct String With Repeat Limit)
 Solve Scaler Day 351 (Rearrange Array)
 Solve LeetCode POTD 18-12-2024 (1475. Final Prices With a Special Discount in a Shop)
 Solve Scaler Day 352 (NUMRANGE)
+Solve LeetCode POTD 19-12-2024 (769. Max Chunks To Make Sorted)
+Solve Scaler Day 353 (NEXTGREATER)
 
