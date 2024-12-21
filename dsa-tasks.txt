@@ -881,4 +881,6 @@ Solve LeetCode POTD 19-12-2024 (769. Max Chunks To Make Sorted)
 Solve Scaler Day 353 (NEXTGREATER)
 Solve LeetCode POTD 20-12-2024 (2415. Reverse Odd Levels of Binary Tree)
 Solve Scaler Day 354 (Wave Array)
+Solve LeetCode POTD 21-12-2024 (2872. Maximum Number of K-Divisible Components)
+Solve Scaler Day 355 (Allocate Books)
 
