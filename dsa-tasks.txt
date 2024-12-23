@@ -885,4 +885,6 @@ Solve LeetCode POTD 21-12-2024 (2872. Maximum Number of K-Divisible Components)
 Solve Scaler Day 355 (Allocate Books)
 Solve LeetCode POTD 22-12-2024 (2940. Find Building Where Alice and Bob Can Meet)
 Solve Scaler Day 356 (Painter's Partition Problem)
+Solve LeetCode POTD 23-12-2024 (2471. Minimum Number of Operations to Sort a Binary Tree by Level)
+Solve Scaler Day 357 (Greatest Common Divisor)
 
