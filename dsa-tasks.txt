@@ -893,4 +893,6 @@ Solve LeetCode POTD 25-12-2024 (515. Find Largest Value in Each Tree Row)
 Solve Scaler Day 359 (Equal)
 Solve LeetCode POTD 26-12-2024 (494. Target Sum)
 Solve Scaler Day 360 (Black Shapes)
+Solve LeetCode POTD 27-12-2024 (1014. Best Sightseeing Pair)
+Solve Scaler Day 361 (INVERSIONS)
 
