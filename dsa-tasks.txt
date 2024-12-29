@@ -897,4 +897,6 @@ Solve LeetCode POTD 27-12-2024 (1014. Best Sightseeing Pair)
 Solve Scaler Day 361 (INVERSIONS)
 Solve LeetCode POTD 28-12-2024 (689. Maximum Sum of 3 Non-Overlapping Subarrays)
 Solve Scaler Day 362 (Maximum Unsorted Subarray)
+Solve LeetCode POTD 29-12-2024 (1639. Number of Ways to Form a Target String Given a Dictionary)
+Solve Scaler Day 363 (Triplets with Sum between given range)
 
