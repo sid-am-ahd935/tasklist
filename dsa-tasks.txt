@@ -901,4 +901,6 @@ Solve LeetCode POTD 29-12-2024 (1639. Number of Ways to Form a Target String Giv
 Solve Scaler Day 363 (Triplets with Sum between given range)
 Solve LeetCode POTD 30-12-2024 (2466. Count Ways To Build Good Strings)
 Solve Scaler Day 364 (Find Permutation)
+Solve LeetCode POTD 31-12-2024 (983. Minimum Cost For Tickets)
+Solve Scaler Day 365 (Palindrome List)
 
