@@ -903,4 +903,5 @@ Solve LeetCode POTD 30-12-2024 (2466. Count Ways To Build Good Strings)
 Solve Scaler Day 364 (Find Permutation)
 Solve LeetCode POTD 31-12-2024 (983. Minimum Cost For Tickets)
 Solve Scaler Day 365 (Palindrome List)
+Solve LeetCode POTD 01-01-2025 (1422. Maximum Score After Splitting a String)
 
