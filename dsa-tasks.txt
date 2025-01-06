@@ -908,3 +908,4 @@ Solve LeetCode POTD 02-01-2025 (2559. Count Vowel Strings in Ranges)
 Solve LeetCode POTD 03-01-2025 (2270. Number of Ways to Split Array)
 1930. Unique Length-3 Palindromic Subsequences
 2381. Shifting Letters II
+Solve LeetCode POTD 06-01-2025 (1769. Minimum Number of Operations to Move All Balls to Each Box)
