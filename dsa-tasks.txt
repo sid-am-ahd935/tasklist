@@ -64,7 +64,7 @@ Solve LeetCode POTD 11-02-2024 (1463. Cherry Pickup II)
 Solve Scaler Day 41 (Max Sum Contiguous Subarray) [Kadane's Algorithm]
 Solve Scaler Day 43 (First Index)
 Solve LeetCode POTD 14-02-2024 (2149. Rearrange Array Elements by Sign)
-Solve Scaler Day 44 (Sort List)
+Solve Scaler Day 44 (Sort List)5
 Solve Scaler Day 45 (List Cycle)
 Solve Scaler Day 46 (Maximum Size Square Sub-matrix)
 Solve LeetCode POTD 17-02-2024 (1642. Furthest Building You Can Reach)
@@ -909,3 +909,4 @@ Solve LeetCode POTD 03-01-2025 (2270. Number of Ways to Split Array)
 1930. Unique Length-3 Palindromic Subsequences
 2381. Shifting Letters II
 Solve LeetCode POTD 06-01-2025 (1769. Minimum Number of Operations to Move All Balls to Each Box)
+Solve LeetCode POTD 07-01-2025 (1408. String Matching in an Array)
