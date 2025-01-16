@@ -918,3 +918,4 @@ Solve LeetCode POTD 12-01-2025 (2116. Check if a Parentheses String Can Be Valid
 Solve LeetCode POTD 13-01-2025 (3223. Minimum Length of String After Operations)
 Solve LeetCode POTD 14-01-2025 (2657. Find the Prefix Common Array of Two Arrays)
 Solve LeetCode POTD 15-01-2025 (2429. Minimize XOR)
+Solve LeetCode POTD 16-01-2025 (2425. Bitwise XOR of All Pairings)
