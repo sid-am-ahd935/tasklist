@@ -924,3 +924,4 @@ Solve LeetCode POTD 18-01-2025 (1368. Minimum Cost to Make at Least One Valid Pa
 Solve LeetCode POTD 19-01-2025 (407. Trapping Rain Water II)
 Solve LeetCode POTD 20-01-2025 (2661. First Completely Painted Row or Column)
 Solve LeetCode POTD 21-01-2025 (2017. Grid Game)
+Solve LeetCode POTD 22-01-2025 (1765. Map of Highest Peak)
