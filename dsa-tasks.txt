@@ -931,3 +931,4 @@ Solve LeetCode POTD 25-01-2025 (2948. Make Lexicographically Smallest Array by S
 Solve LeetCode POTD 26-01-2025 (2127. Maximum Employees to Be Invited to a Meeting)
 Solve LeetCode POTD 27-01-2025 (1462. Course Schedule IV)
 Solve LeetCode POTD 28-01-2025 (2658. Maximum Number of Fish in a Grid)
+Solve LeetCode POTD 29-01-2025 (684. Redundant Connection)
