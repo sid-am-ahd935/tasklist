@@ -944,3 +944,4 @@ Solve LeetCode POTD 07-02-2025 (3160. Find the Number of Distinct Colors Among t
 Solve LeetCode POTD 08-02-2025 (2349. Design a Number Container System)
 Solve LeetCode POTD 09-02-2025 (2364. Count Number of Bad Pairs)
 Solve LeetCode POTD 10-02-2025 (3174. Clear Digits)
+Solve LeetCode POTD 11-02-2025 (1910. Remove All Occurrences of a Substring)
