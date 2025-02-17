@@ -949,3 +949,5 @@ Solve LeetCode POTD 12-02-2025 (2342. Max Sum of a Pair With Equal Sum of Digits
 Solve LeetCode POTD 13-02-2025 (3066. Minimum Operations to Exceed Threshold Value II)
 Solve LeetCode POTD 14-02-2025 (1352. Product of the Last K Numbers)
 Solve LeetCode POTD 15-02-2025 (2698. Find the Punishment Number of an Integer)
+Solve LeetCode POTD 16-02-2025 (1718. Construct the Lexicographically Largest Valid Sequence)
+Solve LeetCode POTD 17-02-2025 (1079. Letter Tile Possibilities)
